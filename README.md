@@ -1,7 +1,8 @@
 # obfuscate
-untuk encrypt &amp; decrypt file bash
+untuk encrypt & decrypt file bash
 
 #cara instal
+
 ```
 $ pkg update && pkg upgrade
 $ pkg install python2
