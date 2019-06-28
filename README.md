@@ -1,7 +1,7 @@
 # obfuscate
 untuk encrypt & decrypt file bash
 
-#cara instal
+cara instal
 
 ```
 $ pkg update && pkg upgrade
